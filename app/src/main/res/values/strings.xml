@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Currency Conversion</string>
+    <string name="hint">Enter Dollar Amount</string>
+    <string name="description">Currency Image</string>
+    <string name="btnConvert">Convert Currency</string>
+    <string name="radEuro">Euro</string>
+    <string name="radCanadian">Canadian Dollar</string>
+    <string name="radMxn">Mexican Peso</string>
+    <string name="txtInstruction">Please select from the following list to convert</string>
+</resources>
